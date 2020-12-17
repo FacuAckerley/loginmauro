@@ -1,0 +1,25 @@
+
+#form {
+    margin-top: 100px;
+    background-color: rgb(154, 223, 223);
+    padding: 50px;
+    border-radius: 2%;
+    border: 1px solid rgb(111, 108, 108);
+    color: white;
+    
+}
+
+.btn-warning {
+    color: white;
+}
+h1 {
+    margin-top: 230px;
+    background-color: rgb(40, 201, 8);
+    padding: 50px;
+    border-radius: 2%;
+    border: 1px solid rgb(111, 108, 108);
+    color: white;
+}
+.wrong{
+    color: red !important;
+}
